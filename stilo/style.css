@@ -5,15 +5,12 @@ body{
     background-color: rgb(63, 126, 105);
 }
 
-
+main {
     background-color: white;
     width: 500px;
-    ma
+    margin: auto;
+    padding: 10px;
     box-shadow: 3px 3px 5px rgba(24, 1, 1, 0.288)
-    main {
-        background-color: white;
-        width: 500px;
-        margin: auto;
-        padding: 10px;
-        box-shadow: 3px 3px 5px rgba(24, 1, 1, 0.288)
-    }
+}
+    
+    
